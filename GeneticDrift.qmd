@@ -1,0 +1,84 @@
+---
+title: "GeneticDrift"
+author: "Katie Duryea"
+format: html
+editor: visual
+execute:
+  keep-md: true
+---
+
+## Genetic Drift Simulator
+
+This document uses the R programming language to simulate how genetic drift affects populations. The objectives of these simulations are:
+
+-   Show how population size affects genetic drift.
+
+-   Show how alleles can be lost of fixed in a population.
+
+-   Show how genetic drift is a stochastic process by comparing the results of independent simulations.
+
+## Genetic Drift and Population Size
+
+First, let's create a population of 10 diploid organisms that are heterozygous for an allele (A, a). When simulating genetic drift, we are mainly interested in the alleles and their frequencies, not the individual that they're attached to. Thus, we will create a pool of alleles and add 10 of each type of allele (A, a).
+
+```{r}
+alleles <- c(rep("A",10), rep("a",10))
+```
+
+We can check to see that worked by displaying the alleles in the population as a table.
+
+```{r}
+table(alleles)
+```
+
+Now, let's simulate the next generation. To do this, we need to pick 20 alleles from our population in order to create the next generation of 10 diploid individuals with two alleles each. This is assuming that population size stays the same, but individuals mate randomly.
+
+```{r}
+alleles2 <- sample(alleles, 20, replace=TRUE)
+```
+
+To see if our allele frequency changes, we can view the alleles of our next generation in a table.
+
+```{r}
+table(alleles2)
+```
+
+Did the allele frequencies stay the same? Let's simulate what would happen if the population continued to reproduce in this way for 100 generations. To do this, we will create a loop to simulate sampling alleles over and over again for each generation.
+
+We will then plot how the number of allele "A" changes in the population over time.
+
+```{r}
+alleles <- c(rep("A",10), rep("a",10))
+plot(1,0, type="n", xlim=c(1,100), ylim=c(0,20), xlab="generation", ylab="number of A alleles")
+for(i in 1:100){
+  alleles <- sample(alleles, 20, replace=TRUE)
+  points(i, length(alleles[alleles=="A"]), pch=19, col="red")
+}
+```
+
+What happened to allele "A"? Was it fixed or lost from the population? Re-run the code above and see if you get a different outcome.
+
+Let's see what happens if we increase the population size to 100. Do you think an allele will still be fixed or lost in 100 generations?
+
+```{r}
+alleles <- c(rep("A",100), rep("a",100))
+plot(1,0, type="n", xlim=c(1,100), ylim=c(0,200), xlab="generation", ylab="number of A alleles")
+for(i in 1:100){
+  alleles <- sample(alleles, 200, replace=TRUE)
+  points(i, length(alleles[alleles=="A"]), pch=19, col="red")
+}
+
+```
+
+How long do you think it would take to fix one allele for a population size of 100? Let's simulate this population again for 500 generations and see if we fix one allele.
+
+```{r}
+alleles <- c(rep("A",100), rep("a",100))
+plot(1,0, type="n", xlim=c(1,100), ylim=c(0,200), xlab="generation", ylab="number of A alleles")
+for(i in 1:500){
+  alleles <- sample(alleles, 200, replace=TRUE)
+  points(i, length(alleles[alleles=="A"]), pch=19, col="red")
+}
+```
+
+Was one allele lost or fixed? Re-run the program and see if you get the same result.
