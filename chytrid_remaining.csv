@@ -1,0 +1,62 @@
+"frog_number","sex","age","species","date","collection_site","town","notes","water_temperature_celcius","water_p_h","time","location_notes","extracted","pcr_result","chytrid","x16","x17","x18","x19","x20","x21","x22","x23","x24","x25","x26"
+141,"Female","Adult","Bullfrog","9/29/19","Carter Hill Orchard","Concord","Clean, happy, energetic","19.778","N/A",18:19:00,"Manmade irrigation pond","Y","positive, faint band","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+131,"Female","Adult","Bullfrog","9/29/19","Carter Hill Orchard","Concord","None","19.778","N/A",18:20:00,"Manmade irrigation pond","Y","positive","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+128,"Female","Adult","Bullfrog","9/29/19","Carter Hill Orchard","Concord","Bilstering on feet, removed excess skin for testing","19.778","N/A",18:23:00,"Manmade irrigation pond","Y","positive","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+132,"Female","Adult","Bullfrog","9/29/19","Carter Hill Orchard","Concord","None","19.778","N/A",18:24:00,"Manmade irrigation pond","Y","positive, faint band","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+152,"Female","Adult","Green Frog","9/29/19","Carter Hill Orchard","Concord","Red marks on bottom of feet","19.778","N/A",18:14:00,"Manmade irrigation pond","Y","negative","n",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+169,"Female","Adult","Green Frog","9/29/19","Carter Hill Orchard","Concord","Beautiful colorations!","19.778","N/A",18:24:00,"Manmade irrigation pond","Y","positive","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26,"Male","Adult","Green frog","8/17/19","Dorrs Drainage","Manchester","energetic, relaxed at foot webbing swab","23.889","N/A",18:30:00,"N/A","Y","positive","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+56,"Female","Adult","Green frog","8/17/19","Dorrs Drainage","Manchester","energetic","23.889","N/A",18:30:00,"N/A","Y","positive, faint band","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+66,"Female","Adult","Bullfrog","8/17/19","Dorrs Pond-Right Side (First Bridge)","Manchester","energetic, jumpy, healthy","23.333","N/A",19:40:00,"N/A","Y","positive, faint band","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+149,"Female","Mature Adult","Bullfrog","10/6/19","Dorrs Pond-Right Side (First Bridge)","Manchester","None","11.889","N/A",16:40:00,"N/A","Y","positive","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+145,"Female","Young Adult","Bullfrog","10/6/19","Dorrs Pond-Right Side (First Bridge)","Manchester","None","11.889","N/A",16:40:00,"N/A","Y","positive","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+139,"Unknown","Very Young Adult","Bullfrog","10/6/19","Dorrs Pond-Right Side (First Bridge)","Manchester","Gender unknown, too small/young to identify. Lump on back hips, possible deformity","11.889","N/A",16:40:00,"N/A","Y","negative","n",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+88,"Female?","Juvenile","Green frog","8/17/19","Dorrs Pond-Right Side (First Bridge)","Manchester","healthy, energetic, attempting to escape","23.333","N/A",19:58:00,"N/A","Y","positive","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+161,"Female","Adult","Green frog","8/17/19","Dorrs Pond-Right Side (First Bridge)","Manchester","Healthy, kicking, jumping, attemped to escape","23.333","N/A",20:05:00,"N/A","Y","positive","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+72,"Female","Adult","Green frog","8/17/19","Dorrs Pond-Right Side (First Bridge)","Manchester","Healthy, jumpy, energetic","23.333","N/A",20:07:00,"N/A","Y","negative","n",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+160,"Female","Young Adult","Green frog","8/17/19","Dorrs Pond-Right Side (First Bridge)","Manchester","Healthy, Energetic","23.333","N/A",20:12:00,"N/A","Y","positive","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+78,"Male","Adult","Green frog","8/17/19","Dorrs Pond-Right Side (First Bridge)","Manchester","Healthy, upset, ""talking"", energetic","23.333","N/A",20:15:00,"N/A","Y","negative","n",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+158,"Female","Adult","Green frog","8/17/19","Dorrs Pond-Right Side (First Bridge)","Manchester","Healthy, energetic, grumpy","23.333","N/A",20:19:00,"N/A","Y","negative","n",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+89,"Female","Juvenile","Green frog","8/17/19","Dorrs Pond-Right Side (First Bridge)","Manchester","Healthy, energetic, jumpy","23.333","N/A",20:25:00,"N/A","Y","negative","n",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+126,"Unknown","Young Adult","Green Frog","10/6/19","Dorrs Pond-Right Side (First Bridge)","Manchester","Found dead and swollen, looked healthy/no sign of injury",NA,"N/A",16:40:00,"N/A","Y","negative","n",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+137,"Male","Adult","Green Frog","10/6/19","Dorrs Pond-Right Side (First Bridge)","Manchester","None","11.889","N/A",16:40:00,"N/A","Y","positive","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+167,"Female","N/A","Green Frog","10/6/19","Dorrs Pond-Right Side (First Bridge)","Manchester","None","11.889","N/A",16:40:00,"N/A","Y","positive","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+153,"Female","Young Adult","Green Frog","10/6/19","Dorrs Pond-Right Side (First Bridge)","Manchester","None","11.889","N/A",16:40:00,"N/A","Y","positive","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7,"Female","Adult","Green frog","9/1/19","Hill School","Pembroke","Active & healthy","17.222","N/A",19:30:00,"N/A","Y","Negative","n",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16,"Female","Adult","Green frog","9/1/19","Hill School","Pembroke","Active & healthy","17.222","N/A",19:30:00,"N/A","Y","Positive","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+31,"Female","Adult","Green frog","9/1/19","Hill School","Pembroke","Slightly lethargic, looked healthy","17.222","N/A",19:30:00,"N/A","Y","Positive","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+74,"Female","Adult","Bullfrog","7/23/19","House Pond","pembroke","Healthy & Active","N/A","N/A",21:05:00,"N/A","Y","positive","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+62,"Female","Adult","Bullfrog","7/23/19","House Pond","pembroke","Healthy","N/A","N/A",21:10:00,"N/A","Y","positive","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+98,"Female","Adult","Bullfrog","7/23/19","house Pond","pembroke","Healthy & Active","N/A","N/A",21:30:00,"N/A","Y","positive","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+73,"Male","Adult","Bullfrog","7/23/19","house Pond","pembroke","Healthy, strong, fighting, wellfed","N/A","N/A",21:45:00,"N/A","Y","positive, faint band","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77,"Male","Adult","Green frog","7/23/19","House Pond","pembroke","Healthy","N/A","N/A",21:00:00,"N/A","Y","positive","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+79,"Male","Adult","Green frog","7/23/19","house Pond","pembroke","Healthy & Active","N/A","N/A",21:15:00,"N/A","Y","positive","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+91,"Male","Adult","Green frog","7/23/19","house Pond","pembroke","Healthy, Cooperative","N/A","N/A",21:20:00,"N/A","Y","negative","n",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+76,"Male","Adult","Green frog","7/23/19","house Pond","pembroke","Active, pinkish markings on groin and feet","N/A","N/A",21:25:00,"N/A","Y","positive","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+100,"Male","Adult","Green frog","7/23/19","house Pond","pembroke","Active, bilster on toe, pink markings on groin and feet","N/A","N/A",21:35:00,"N/A","Y","negative","n",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+70,"Male","Adult","Green frog","7/23/19","house Pond","pembroke","Healthy, Cooperative","N/A","N/A",21:40:00,"N/A","Y","positive, faint band","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22,"Female","Young Adult","Green frog","8/25/19","LynxField Pond","Chichester","Healthy, good coloration","23","N/A",16:30:00,"N/A","Y","Negative","n",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46,"Female","Young Adult","Green frog","8/25/19","LynxField Pond","Chichester","Healthy, Cooperative","23","N/A",16:30:00,"N/A","Y","Negative","n",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14,"Female","Adult","Green frog","8/25/19","LynxField Pond","Chichester","Healthy, fiesty, thighs reddish, copper tympanum","23","N/A",16:30:00,"N/A","Y","positive","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,"Male","Adult","Green frog","8/25/19","Marsh Pond","Chichester","Healthy","25","N/A",13:30:00,"Manmade and Natural waterbody (combo)","Y","positive","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9,"Female","Adult","Green frog","8/25/19","Marsh Pond","Chichester","Pink patch under right foot","25","N/A",13:30:00,"Manmade and Natural waterbody (combo)","Y","positive","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8,"Male","Adult","Green frog","8/25/19","Marsh Pond","Chichester","Blood on thighs, red feet, very strong","25","N/A",13:30:00,"Manmade and Natural waterbody (combo)","Y","positive","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+37,"Female","Young Adult","Pickerel Frog","8/25/19","Marsh Pond","Chichester","N/A","25","N/A",13:30:00,"manmade and Natural waterbody (combo)","Y","negative","n",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25,"Unknown","Young Adult","Pickerel Frog","8/25/19","Marsh Pond","Chichester","Dark Spots on Chest","25","N/A",13:30:00,"manmade and Natural waterbody (combo)","Y","positive","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+45,"Female","Adult","Green Frog","10/7/19","Melissa Drive","Pembroke","Healthy","17.222","N/A",21:00:00,"Rainy Night/Amphibian Migration Night","Y","negative","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,"Unknown","Adult","Spring Peeper","10/7/19","Melissa Drive","Pembroke","Healthy","17.222","N/A",21:00:00,"Rainy Night/Amphibian Migration Night","Y","negative","n",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+47,"Unknown","Adult","Spring Peeper","10/7/19","Melissa Drive","Pembroke","Healthy","17.222","N/A",21:00:00,"Rainy Night/Amphibian Migration Night","Y","negative","n",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+50,"Female?","Adult","Woodfrog","10/7/19","Melissa Drive","Pembroke","Healthy","17.222","N/A",21:00:00,"Rainy Night/Amphibian Migration Night","Y","negative","n",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+49,"Unknown","Adult","Woodfrog","10/7/19","Melissa Drive","Pembroke","Healthy","17.222","N/A",21:00:00,"Rainy Night/Amphibian Migration Night","Y","negative","n",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+48,"Unknown","Adult","Woodfrog","10/7/19","Melissa Drive","Pembroke","Had excess fluid around mouth, salivating? mouth swollen - likely jaw/mouth injury","17.222","N/A",21:00:00,"Rainy Night/Amphibian Migration Night","Y","positive","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11,"Female","Adult","Bullfrog","9/2/19","PA Pond","Pembroke","Calm, healthy","15.556","N/A",17:45:00,"Note - rainy day","Y","positive, faint band","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35,"Female","Adult","Bullfrog","9/2/19","PA Pond","Pembroke","Healthy, large frog","15.556","N/A",18:00:00,"Note - rainy day","Y","positive, faint band","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,"Female","Adult","Bullfrog","9/2/19","PA Pond","Pembroke","lethargic, sloughing a lot of skin","15.556","N/A",18:00:00,"Note - rainy day","Y","Negative","n",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+164,"Female","Adult","Bullfrog","9/6/19","PA Pond","Pembroke","None","20","N/A",18:00:00,"Nighttime/after dark frogging","Y","positive, faint band","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+171,"Female","Young Adult","Bullfrog","9/6/19","PA Pond","Pembroke","on skinnier side for frog of its size","20","N/A",18:00:00,"nighttime/after dark frogging","Y","positive, faint band","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+172,"Female","Adult","Bullfrog","9/6/19","PA Pond","Pembroke","skinny frog","20","N/A",18:00:00,"nighttime/after dark frogging","Y","positive, faint band","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,"Female","Adult","Bullfrog","9/6/19","PA Pond","Pembroke","None","20","N/A",18:00:00,"nighttime/after dark frogging","Y","positive, faint band","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+36,"Female","Young Adult","Green frog","9/2/19","PA Pond","Pembroke","Healthy, tired","15.556","N/A",18:00:00,"Note - rainy day","Y","Negative","n",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+168,"Female","Adult","Green frog","9/6/19","PA Pond","Pembroke","None","20","N/A",18:00:00,"nighttime/after dark frogging","Y","Negative","n",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+39,"Female","Adult","Green frog","9/6/19","PA Pond","Pembroke","None","20","N/A",18:00:00,"nighttime/after dark frogging","Y","Negative","n",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+174,"Female","Adult","Greenfrog","9/6/19","PA Pond","Pembroke","appeared slimer than a frog its size should have been","20","N/A",18:00:00,"nighttime/after dark frogging","Y","positive, faint band","y",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
